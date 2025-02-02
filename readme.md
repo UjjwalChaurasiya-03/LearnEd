@@ -4,7 +4,7 @@ An educational website for students and programmers 😊😊😊
 ![](pcView.png)
 
 Try this out::  
-https://ujjwalchaurasiya-03.github.io/smart_education/
+https://ujjwalchaurasiya-03.github.io/LearnEd/
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
